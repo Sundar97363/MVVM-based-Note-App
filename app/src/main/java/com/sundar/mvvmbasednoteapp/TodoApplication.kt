@@ -1,4 +1,4 @@
-package com.example.mvvmbasednoteapp
+package com.sundar.mvvmbasednoteapp
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

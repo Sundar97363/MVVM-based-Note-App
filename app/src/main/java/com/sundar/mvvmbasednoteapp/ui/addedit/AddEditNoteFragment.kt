@@ -1,11 +1,10 @@
-package com.example.mvvmbasednoteapp.ui.addedit
+package com.sundar.mvvmbasednoteapp.ui.addedit
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.example.mvvmbasednoteapp.R
 import com.example.mvvmbasednoteapp.databinding.FragmentAddEditNoteBinding
 import dagger.hilt.android.AndroidEntryPoint
 

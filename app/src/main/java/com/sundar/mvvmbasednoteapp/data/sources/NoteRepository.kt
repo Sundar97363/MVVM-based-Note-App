@@ -1,6 +1,6 @@
-package com.example.mvvmbasednoteapp.data.sources
+package com.sundar.mvvmbasednoteapp.data.sources
 
-import com.example.mvvmbasednoteapp.data.sources.local.model.Note
+import com.sundar.mvvmbasednoteapp.data.sources.local.model.Note
 import kotlinx.coroutines.flow.Flow
 
 interface NoteRepository {
