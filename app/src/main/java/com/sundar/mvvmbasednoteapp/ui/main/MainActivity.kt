@@ -1,4 +1,4 @@
-package com.example.mvvmbasednoteapp.ui.main
+package com.sundar.mvvmbasednoteapp.ui.main
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge

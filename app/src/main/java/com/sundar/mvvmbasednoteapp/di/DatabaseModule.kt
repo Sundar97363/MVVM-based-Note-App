@@ -1,11 +1,11 @@
-package com.example.mvvmbasednoteapp.di
+package com.sundar.mvvmbasednoteapp.di
 
 import android.content.Context
 import androidx.room.Room
-import com.example.mvvmbasednoteapp.data.sources.NoteRepository
-import com.example.mvvmbasednoteapp.data.sources.NoteRepositoryImpl
-import com.example.mvvmbasednoteapp.data.sources.local.NoteDatabase
-import com.example.mvvmbasednoteapp.utils.Constants.DATABASE_NAME
+import com.sundar.mvvmbasednoteapp.data.sources.NoteRepository
+import com.sundar.mvvmbasednoteapp.data.sources.NoteRepositoryImpl
+import com.sundar.mvvmbasednoteapp.data.sources.local.NoteDatabase
+import com.sundar.mvvmbasednoteapp.utils.Constants.DATABASE_NAME
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

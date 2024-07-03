@@ -1,9 +1,9 @@
-package com.example.mvvmbasednoteapp.data.sources.local
+package com.sundar.mvvmbasednoteapp.data.sources.local
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
-import com.example.mvvmbasednoteapp.data.sources.local.dao.NoteDao
-import com.example.mvvmbasednoteapp.data.sources.local.model.Note
+import com.sundar.mvvmbasednoteapp.data.sources.local.dao.NoteDao
+import com.sundar.mvvmbasednoteapp.data.sources.local.model.Note
 
 @Database(
     entities = [Note::class],

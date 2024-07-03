@@ -1,4 +1,4 @@
-package com.example.mvvmbasednoteapp.data.sources.local.model
+package com.sundar.mvvmbasednoteapp.data.sources.local.model
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
